@@ -1,4 +1,12 @@
-### Hi there 👋
+# Mike Dupree
+
+## Software Architect
+
+Typescript/PHP for work
+
+Rust, C# for fun
+
+
 
 <!--
 **MikeDupree/MikeDupree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,3 +25,5 @@ Here are some ideas to get you started:
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=MikeDupree&theme=tokyonight&show_icons=true&include_all_commits=true&custom_title=My%20Github%20Stats)](https://github.com/MikeDupree)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikeDupree&theme=tokyonight&layout=compact)](https://github.com/MikeDupree)
+
+![VIM](https://www.memecreator.org/static/images/memes/4219868.jpg)
