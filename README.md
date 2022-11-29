@@ -1,10 +1,8 @@
 # Mike Dupree
 
-## Software Architect
+### Software Architect
 
-Typescript/PHP for work
-
-Rust, C# for fun
+#### Typescript & PHP for work, Rust & C# for fun
 
 
 
