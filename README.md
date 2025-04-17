@@ -21,6 +21,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=MikeDupree&theme=midnight-purple&show_icons=true&include_all_commits=true&custom_title=My%20Github%20Stats)](https://github.com/MikeDupree)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikeDupree&theme=midnight-purple&layout=compact&count_private=true)](https://github.com/MikeDupree)
 
